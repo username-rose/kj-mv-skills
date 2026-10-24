@@ -1,0 +1,85 @@
+{
+  "ui_shell": {
+    "bg": "#16121F",
+    "shellHi": "#342C50",
+    "border": "#FFFFFF",
+    "dialogBg": "rgba(14,12,26,0.90)",
+    "dim": "#8A84A8",
+    "hot": "#E8443F",
+    "gold": "#FFD93D",
+    "hp": "#FF4D5E",
+    "shadow": "rgba(0,0,0,0.42)"
+  },
+  "scene_campus": {
+    "sky1": "#87CEEB", "sky2": "#9BD6F0", "sky3": "#A8DDF5", "sky4": "#B7E4F9",
+    "ground": "#7CFC00", "groundDk": "#5EC400",
+    "mid1": "#A9A9A9", "mid2": "#C8C8C8",
+    "outline": "#2B2B2B", "accent": "#FFD700", "glow": "#FFEFB0", "text": "#FFFFFF",
+    "overlay": { "color": "#F0C878", "alpha": 0.35 },
+    "desc": "清晨校园，明亮希望"
+  },
+  "scene_city": {
+    "sky1": "#2C3E50", "sky2": "#33475C", "sky3": "#385167", "sky4": "#3E5A72",
+    "ground": "#34495E", "groundDk": "#223142",
+    "mid1": "#4A4A4A", "mid2": "#6A6A6A",
+    "outline": "#1C1C1C", "accent": "#FF69B4", "glow": "#FFC0E0", "text": "#FFD700",
+    "overlay": { "color": "#5B7FA6", "alpha": 0.30 },
+    "desc": "城市街道，黄昏叙事"
+  },
+  "scene_night_neon": {
+    "sky1": "#0B0C10", "sky2": "#12161C", "sky3": "#181E28", "sky4": "#1F2833",
+    "ground": "#14181F", "groundDk": "#0A0D12",
+    "mid1": "#45A29E", "mid2": "#66C2BE",
+    "outline": "#000000", "accent": "#FF00FF", "glow": "#FF66FF", "text": "#FFFFFF",
+    "overlay": { "color": "#2A1A40", "alpha": 0.35 },
+    "desc": "夜晚霓虹，赛博都市"
+  },
+  "scene_rain": {
+    "sky1": "#2C3E50", "sky2": "#324755", "sky3": "#37505F", "sky4": "#3D5669",
+    "ground": "#34495E", "groundDk": "#223142",
+    "mid1": "#7F8C8D", "mid2": "#9AA7A8",
+    "outline": "#111111", "accent": "#A2D9CE", "glow": "#C9EDE5", "text": "#D6EAF8",
+    "overlay": { "color": "#6E8FA6", "alpha": 0.32 },
+    "desc": "雨天阴郁，情绪低落"
+  },
+  "scene_room": {
+    "sky1": "#E8D5B7", "sky2": "#EDDCC2", "sky3": "#F1E1C8", "sky4": "#F5E6CE",
+    "ground": "#8B6F47", "groundDk": "#6B5436",
+    "mid1": "#C19A6B", "mid2": "#D9B98F",
+    "outline": "#3E2723", "accent": "#FFB347", "glow": "#FFE0B0", "text": "#3E2723",
+    "overlay": { "color": "#E8C79A", "alpha": 0.30 },
+    "desc": "室内暖光，教室或卧室"
+  },
+  "scene_memory": {
+    "sky1": "#F5DEB3", "sky2": "#F8E4BE", "sky3": "#FBEAC9", "sky4": "#FFF0D4",
+    "ground": "#DEB887", "groundDk": "#C39A68",
+    "mid1": "#8B4513", "mid2": "#A9622A",
+    "outline": "#3E2723", "accent": "#FFDAB9", "glow": "#FFF0DC", "text": "#3E2723",
+    "overlay": { "color": "#FFD9A0", "alpha": 0.38 },
+    "desc": "暖黄回忆，旧照片滤镜"
+  },
+  "scene_sunset": {
+    "sky1": "#FF4500", "sky2": "#FF6500", "sky3": "#FF8500", "sky4": "#FFA500",
+    "ground": "#8B0000", "groundDk": "#5E0000",
+    "mid1": "#2F4F4F", "mid2": "#4A6E6E",
+    "outline": "#2F0000", "accent": "#FFFF00", "glow": "#FFE880", "text": "#FFFFFF",
+    "overlay": { "color": "#FF7A3C", "alpha": 0.35 },
+    "desc": "黄昏日落，浪漫治愈"
+  },
+  "scene_sea": {
+    "sky1": "#87CEEB", "sky2": "#9AD6EF", "sky3": "#B0E0F2", "sky4": "#C9E9F6",
+    "ground": "#1F4A5A", "groundDk": "#12303C",
+    "mid1": "#2F6472", "mid2": "#4A8492",
+    "outline": "#12303C", "accent": "#5F99A4", "glow": "#BDE6EC", "text": "#FFFFFF",
+    "overlay": { "color": "#7FC8DC", "alpha": 0.30 },
+    "desc": "海边堤岸，开阔明亮"
+  },
+  "scene_mono": {
+    "sky1": "#FFFFFF", "sky2": "#F8F8F8", "sky3": "#F0F0F0", "sky4": "#E8E8E8",
+    "ground": "#D3D3D3", "groundDk": "#B0B0B0",
+    "mid1": "#808080", "mid2": "#A0A0A0",
+    "outline": "#000000", "accent": "#2F4F4F", "glow": "#FFFFFF", "text": "#000000",
+    "overlay": { "color": "#FFFFFF", "alpha": 0.25 },
+    "desc": "黑白闪回，极简回忆"
+  }
+}
